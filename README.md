@@ -24,16 +24,24 @@ The Waterfall methodology is a sequential procedure divided into phases in which
 Agile methodology is an iterative procedure where the team focuses on building a certain feature at a time instead of the entire project. Each feature then gets tested and required to get feedback from consumers before being deployed. It is very flexible and emphasises customer feedback. However, it can be a bit slow due to the possibility of having to revisit various parts multiple times until it satisfies the consumers. It is suitable for projects that are very general-use or have a wide consumer base and are prone to being changed significantly multiple times such as social media apps.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+A Software Developer is the person tasked with the actual coding of the software.
+A Quality Asssurance Engineer is a person tasked with testing the product to ensure it is up to the required standards.
+A Project Manager is tasked with overseeing the entire development process and making sure it runs smoothly and on schedule by ensuring availability of the required resources.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+IDEs make development more efficient by providing tools not readily available in regular text editors such as debuggers and various extensions. An example is VS Code.
+VCSs are used to track software changes to make finding bugs easier. They also enhance teamwork by allowing multiple parties to work on different parts of a project at the same time. An example is Git.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Changing requirements - When using inflexible development methodologies such as Waterfall, a sudden change in the product requirements will cause work to halt and be pushed back to a previous stage causing delays. This can be overcome by using a flexible methodology such as Agile which can easily handle changing requirements.
+Lack of budget - Sometimes developers may lack adequate finances to fund the project's required assets such as virtual computers or cloud storage. This can be fixed by various means such as crowdfunding. 
+Tight deadlines - As software development is a relatively slow process, some deadlines can be impossible to meet while still delivering quality code. This can lead to developers being forced to rush and cut corners and eventually lead to a low quality product. This can be fixed by ensuring proper communication on the schedule limits and the workload during meetings.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Unit testing - testing a single component or feature of a project. It ensures each part of the project is working properly on its own.
+Integration testing - testing how well the components interact and work with each other. It ensures that the various parts do not cause conflicts with each other.
+System testing - testing of the entire project as a whole. This ensures that the product has no issues before it is deployed.
+Acceptance testing - testing the product against the user needs. This ensures that the product actually solves the problem being encountered by the consumers.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
